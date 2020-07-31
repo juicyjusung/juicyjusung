@@ -1,10 +1,10 @@
 ## 👋 About Me
 
 <p align="center">
-  <a href="https://instagram.com/juicyjusung/"><img alt="Instagram Badge" src="https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://instagram.com/juicyjusung"></a>
-  <a href="https://open.kakao.com/o/ses83Xlc/"><img alt="Kakaotalk Badge" src="https://img.shields.io/badge/-KakaoTalk-yellow?style=flat-square&logo=messenger&logoColor=white&link=https://open.kakao.com/o/ses83Xlc"></a>
-  <a href="https://juicylog.com"><img alt="Blog  Badge" src="https://img.shields.io/badge/juicylog(blog)-purple?&style=flat-square&logo=google-chrome&logoColor=white&link=https://juicylog.com"></a>
-  <a href="https://github.com/juicyjusung"><img alt="Github  Badge" src="https://img.shields.io/badge/github-black?&style=flat-square&logo=github&logoColor=white&link=https://github.com/juicyjusung"></a>
+  <a href="https://instagram.com/juicyjusung/"><img alt="Instagram Badge" src="https://img.shields.io/badge/-Instagram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://instagram.com/juicyjusung"></a>&nbsp;&nbsp;
+  <a href="https://open.kakao.com/o/ses83Xlc/"><img alt="Kakaotalk Badge" src="https://img.shields.io/badge/-KakaoTalk-yellow?style=for-the-badge&logo=messenger&logoColor=white&link=https://open.kakao.com/o/ses83Xlc"></a>&nbsp;&nbsp;
+  <a href="https://juicylog.com"><img alt="Blog  Badge" src="https://img.shields.io/badge/juicylog(blog)-purple?&style=for-the-badge&logo=google-chrome&logoColor=white&link=https://juicylog.com"></a>&nbsp;&nbsp;
+  <a href="https://github.com/juicyjusung"><img alt="Github  Badge" src="https://img.shields.io/badge/github-black?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/juicyjusung"></a>
 </p>
 
 
