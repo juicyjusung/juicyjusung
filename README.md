@@ -51,8 +51,7 @@
 - [[클로봇]](https://www.clobot.co.kr/) 프론트앤드 개발자 
 
 ### ✔️ I'm currently learning
- - TypeScript
- - React
+ - Vanila JS 와 자바스크립트 기초를 다시 공부하고있습니다.
  
 ### 🌴 Fun facts
 - 주짓수 블루벨트
