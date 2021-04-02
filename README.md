@@ -28,11 +28,11 @@
 
 
 ### 👩‍💻 I'm working on
-- [[클로봇]](https://www.clobot.co.kr/) 프론트앤드 개발자 
+- 백수
+- [[클로봇]](https://www.clobot.co.kr/) 프론트앤드 개발자 (2021.03 퇴사)
 
 ### ✔️ I'm currently learning
- - Functional programming을 공부하고 있습니다.
- - Vanila JS 와 자바스크립트 기초를 다시 공부하고 있습니다.
+ - 자바스크립트의 원리와 디자인 패턴을 공부하고있습니다
  
 ### 🌴 Fun facts
 - 주짓수 블루벨트
