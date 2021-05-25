@@ -26,8 +26,7 @@
 
 
 ### 👩‍💻 I'm working on
-- 백수
-- [[클로봇]](https://www.clobot.co.kr/) 프론트앤드 개발자 (2021.03 퇴사)
+- 노리코리아
 
 ### ✔️ I'm currently learning
  - 자바스크립트의 원리와 디자인 패턴을 공부하고있습니다
