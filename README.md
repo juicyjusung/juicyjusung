@@ -3,7 +3,7 @@
 ### **juicyjusung**
 **안녕하세요! Best practices 실현을 목표로 하는 주니어 자바스크립트 개발자 입니다.**
 
-**협업, 업무효율화 및 프로젝트 관리에도 관심이 많습니다.**
+**DevRel에도 관심이 많습니다.**
 
 <p align="center">
   <a href="https://instagram.com/juicyjusung/" target="_blank"><img alt="Instagram Badge" src="https://img.shields.io/badge/-Instagram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://instagram.com/juicyjusung"></a>&nbsp;&nbsp;
