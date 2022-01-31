@@ -1,5 +1,7 @@
 ## 👋 About Me
 
+
+
 ### **juicyjusung**
 **안녕하세요! Best practices 실현을 목표로 하는 주니어 자바스크립트 개발자 입니다.**
 
@@ -11,7 +13,6 @@
   <a href="https://juicylog.com" target="_blank"><img alt="Blog  Badge" src="https://img.shields.io/badge/juicylog(blog)-purple?&style=for-the-badge&logo=google-chrome&logoColor=white&link=https://juicylog.com"></a>&nbsp;&nbsp;
   <a href="https://github.com/juicyjusung" target="_blank"><img alt="Github  Badge" src="https://img.shields.io/badge/github-black?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/juicyjusung"></a>
 </p>
-
 
 ### 👨🏻‍💻 Github stats / 💻 Tech Stack 
 
@@ -39,3 +40,4 @@
 ⭐️ From [@juicyjusung](https://github.com/juicyjusung)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=juicyjusung.juicyjusung)
+[![wakatime](https://wakatime.com/badge/user/34d51359-369e-4fe3-a7b3-44ce2c5401e9.svg)](https://wakatime.com/@34d51359-369e-4fe3-a7b3-44ce2c5401e9)
