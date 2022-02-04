@@ -17,7 +17,6 @@
 ### 👨🏻‍💻 Github stats / 💻 Tech Stack 
 
 <p align="justify">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juicyjusung&theme=gruvbox&hide=glsl,python" alt="juicyjusung's Most used lang" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=juicyjusung&&show_icons=true&theme=gruvbox&show_icons=true" alt="juicyjusung's Github Stats" />  
 </p>
 
