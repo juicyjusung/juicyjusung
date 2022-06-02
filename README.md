@@ -1,6 +1,8 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
 ## 👋 About Me
-
-
 
 ### **juicyjusung**
 **안녕하세요! Best practices 실현을 목표로 하는 주니어 자바스크립트 개발자 입니다.**
@@ -14,16 +16,20 @@
   <a href="https://github.com/juicyjusung" target="_blank"><img alt="Github  Badge" src="https://img.shields.io/badge/github-black?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/juicyjusung"></a>
 </p>
 
-### 👨🏻‍💻 Github stats / 💻 Tech Stack 
-
-<p align="justify">
-  <img src="https://github-readme-stats.vercel.app/api?username=juicyjusung&&show_icons=true&theme=gruvbox&show_icons=true" alt="juicyjusung's Github Stats" />  
-</p>
+### 💻 Tech Stack
 
 <p align="center">
   <img alt="1" src="https://user-images.githubusercontent.com/46892438/116036665-0264b800-a6a2-11eb-92aa-42f5ad8aa4c9.png">
 </p>
 
+
+### 👨🏻‍💻 Github stats
+<p align="justify">
+  <img src="https://github-readme-stats.vercel.app/api?username=juicyjusung&&show_icons=true&theme=gruvbox&show_icons=true" alt="juicyjusung's Github Stats" />
+  <br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juicyjusung&theme=gruvbox" align="center" />
+
+</p>
 
 ### 👩‍💻 I'm working on
 - 노리코리아
@@ -34,6 +40,9 @@
 ### 🌴 Fun facts
 - 주짓수 블루벨트
 - 2012년 한국 창의력 올림픽 우승자 -->
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=oy6t8ncwkpzlr53a9rb27tgxn&cover_image=true&theme=default&bar_color_cover=true" /></div>  
+
 
 
 ⭐️ From [@juicyjusung](https://github.com/juicyjusung)
