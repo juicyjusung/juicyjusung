@@ -32,7 +32,7 @@
 </p>
 
 ### 👩‍💻 I'm working on
-- 노리코리아
+- 네이버제트 (ZEP)
 <!-- 
 ### ✔️ I'm currently learning
  - 자바스크립트의 원리와 디자인 패턴을 공부하고있습니다
