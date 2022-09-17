@@ -27,25 +27,13 @@
 <p align="justify">
   <img src="https://github-readme-stats.vercel.app/api?username=juicyjusung&&show_icons=true&theme=gruvbox&show_icons=true" alt="juicyjusung's Github Stats" />
   <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juicyjusung&theme=gruvbox" align="center" />
 
 </p>
-<!-- 
-### 👩‍💻 I'm working on
-- 네이버제트 (ZEP)
-
-### ✔️ I'm currently learning
- - 자바스크립트의 원리와 디자인 패턴을 공부하고있습니다
- 
-### 🌴 Fun facts
-- 주짓수 블루벨트
-- 2012년 한국 창의력 올림픽 우승자 -->
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=oy6t8ncwkpzlr53a9rb27tgxn&cover_image=true&theme=default&bar_color_cover=true" /></div>  
-
-
 
 ⭐️ From [@juicyjusung](https://github.com/juicyjusung)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=juicyjusung.juicyjusung)
 [![wakatime](https://wakatime.com/badge/user/34d51359-369e-4fe3-a7b3-44ce2c5401e9.svg)](https://wakatime.com/@34d51359-369e-4fe3-a7b3-44ce2c5401e9)
+
