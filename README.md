@@ -9,6 +9,9 @@
 - **어떻게 하면 우리 모두가 적은 노력으로 더 큰 아웃풋을 낼 수 있을지 고민합니다.**
 - **효율화, 생산성 덕후**
 
+### recent interests
+- Rxjs, xState, CRDT
+
 <!-- **DevRel에도 관심이 많습니다.** -->
 
 <p align="center">
