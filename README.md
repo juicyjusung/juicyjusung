@@ -7,17 +7,13 @@
 ### **juicyjusung**
 - **안녕하세요! Best practices 실현을 목표로 하는 자바스크립트 개발자 입니다.**
 - **어떻게 하면 우리 모두가 적은 노력으로 더 큰 아웃풋을 낼 수 있을지 고민합니다.**
-- **효율화, 생산성 덕후**
 
-### recent interests
-- Rxjs, xState, CRDT
 
 <!-- **DevRel에도 관심이 많습니다.** -->
 
-<p align="center">
-  <a href="https://instagram.com/juicyjusung/" target="_blank"><img alt="Instagram Badge" src="https://img.shields.io/badge/-Instagram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://instagram.com/juicyjusung"></a>&nbsp;&nbsp;
+<p align="center"">
   <a href="https://open.kakao.com/o/ses83Xlc/" target="_blank"><img alt="Kakaotalk Badge" src="https://img.shields.io/badge/-KakaoTalk-yellow?style=for-the-badge&logo=messenger&logoColor=white&link=https://open.kakao.com/o/ses83Xlc"></a>&nbsp;&nbsp;
-  <a href="https://juicylog.com" target="_blank"><img alt="Blog  Badge" src="https://img.shields.io/badge/juicylog(blog)-purple?&style=for-the-badge&logo=google-chrome&logoColor=white&link=https://juicylog.com"></a>&nbsp;&nbsp;
+  <a href="https://www.juicylog.com" target="_blank"><img alt="Blog  Badge" src="https://img.shields.io/badge/juicylog(blog)-purple?&style=for-the-badge&logo=google-chrome&logoColor=white&link=https://juicylog.com"></a>&nbsp;&nbsp;
   <a href="https://github.com/juicyjusung" target="_blank"><img alt="Github  Badge" src="https://img.shields.io/badge/github-black?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/juicyjusung"></a>
 </p>
 
@@ -41,4 +37,3 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=juicyjusung.juicyjusung)
 [![wakatime](https://wakatime.com/badge/user/34d51359-369e-4fe3-a7b3-44ce2c5401e9.svg)](https://wakatime.com/@34d51359-369e-4fe3-a7b3-44ce2c5401e9)
-
